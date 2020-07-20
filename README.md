@@ -6,9 +6,8 @@
 
 <p align='center'>
   <a href="http://fanfou.com/wang.daodao"><img src="https://img.shields.io/badge/饭否%20-%23168EEA.svg?&style=for-the-badge&logo=Farfetch&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/wangdaodao"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/wangdaodao_com%20-%237bb32e.svg?&style=for-the-badge&logo=wechat&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-
+  <a href="https://www.linkedin.com/in/wangdaodao"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br>
+  <img src="https://i.loli.net/2020/07/20/E4gqj32XmwrOpyz.jpg" />
 </p>
 
 <hr>
@@ -19,7 +18,7 @@
 <p >
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  
 </p>
 
 <hr>
