@@ -3,8 +3,8 @@
   I live on Beijing, China and work at <b>Glodon</b> 
 </p>
 <p align='center'>
-  <a href="http://fanfou.com/wang.daodao"><img src="https://img.shields.io/badge/饭否%20-%23168EEA.svg?&style=for-the-badge&logo=Farfetch&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/wangdaodao"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<!--   <a href="http://fanfou.com/wang.daodao"><img src="https://img.shields.io/badge/饭否%20-%23168EEA.svg?&style=for-the-badge&logo=Farfetch&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/wangdaodao"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br> -->
   <img src="https://i.loli.net/2020/07/20/E4gqj32XmwrOpyz.jpg" />
 </p>
 <hr>
