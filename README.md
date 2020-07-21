@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm wangdaodao  👦❤💻 </h1>
+<h1 align='center'> Hi there 👋, I'm wangdaodao 👨‍💻 </h1>
 <p align='center'>
   I live on Beijing, China and work at <b>Glodon</b> 
 </p>
@@ -10,9 +10,9 @@
 <hr>
 <h4> 🔭 I’m currently working with ...</h4>
 <p >
-  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
 <h4>🌱 I'm currently learning...</h4>
@@ -28,5 +28,6 @@
 </p>
 <p align='right'>
 <h4>💬 Sometimes I like to write things here...</h4>
-  <a href="https://wangdaodao.com"><img src="https://img.shields.io/badge/blogger%20-%23ff5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://www.flickr.com/photos/wangdaodao/a"><img src="https://img.shields.io/badge/flickr%20-%230063dc.svg?&style=for-the-badge&logo=flickr&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wangdaodao.com"><img src="https://img.shields.io/badge/blogger%20-%23ff5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.flickr.com/photos/wangdaodao/a"><img src="https://img.shields.io/badge/flickr%20-%230063dc.svg?&style=for-the-badge&logo=flickr&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
