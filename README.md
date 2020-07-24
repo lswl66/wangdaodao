@@ -1,6 +1,6 @@
 <h1 align='center'> Hi there 👋, I'm wangdaodao 👨‍💻 </h1>
 <p align='center'>
-  I live on Beijing, China and work at <b>Glodon</b> 
+  I live on Beijing, China.
 </p>
 <p align='center'>
 <!--   <a href="http://fanfou.com/wang.daodao"><img src="https://img.shields.io/badge/饭否%20-%23168EEA.svg?&style=for-the-badge&logo=Farfetch&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
