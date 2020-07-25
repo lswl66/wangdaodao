@@ -17,7 +17,7 @@
 ![typescript](https://img.shields.io/badge/typescript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![sass](https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
 ![electron](https://img.shields.io/badge/electron%20-%2347848f.svg?&style=for-the-badge&logo=electron&logoColor=white)
-![jest](//img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white)
+![jest](https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white)
 ![php](https://img.shields.io/badge/php%20-%23777bb4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![linux](https://img.shields.io/badge/linux%20-%23fcc624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 
