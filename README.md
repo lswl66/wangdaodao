@@ -2,7 +2,7 @@
 
 ![](https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif) I live on Beijing, China.
 
-[![wangdaodao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wangdaodao&show_icons=true)](https://github.com/wangdaodao)
+![top-langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wangdaodao&hide=PHP,Makefile) ![wangdaodao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wangdaodao&show_icons=true&line_height=27)
 
 ## 🔭 I’m currently working with ...
 
