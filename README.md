@@ -2,8 +2,6 @@
 
 ![](https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif) I live on Beijing, China.
 
-![微信](https://i.loli.net/2020/07/20/E4gqj32XmwrOpyz.jpg)
-
 [![wangdaodao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wangdaodao&show_icons=true)](https://github.com/wangdaodao)
 
 ## 🔭 I’m currently working with ...
